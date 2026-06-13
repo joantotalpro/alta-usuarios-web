@@ -1,0 +1,11 @@
+# Datos generados en runtime
+usuarios.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
