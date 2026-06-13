@@ -1,8 +1,8 @@
 // URL del backend PHP.
 // - En desarrollo local (php -S localhost:8000) se queda en 'alta_usuario.php'.
 // - En producción (GitHub Pages), cámbialo por la URL completa de tu hosting PHP, p.ej.:
-//     'https://tu-subdominio.infinityfreeapp.com/alta_usuario.php'
-const BACKEND_URL = 'alta_usuario.php';
+//     'https://joantotalpro-subdominio.infinityfreeapp.com/alta_usuario.php'
+const BACKEND_URL = 'https://joantotalpro-app.infinityfreeapp.com/alta_usuario.php';
 
 document.addEventListener('DOMContentLoaded', () => {
     const form = document.getElementById('form-alta');
